@@ -1,0 +1,23 @@
+{
+    "BigQuery Schema": [{
+      "name": "rank",
+      "type": "STRING"
+     },
+     {
+      "name": "name",
+      "type": "STRING"
+     },
+     {
+      "name": "country",
+      "type": "STRING"
+     },
+     {
+        "name": "points",
+        "type": "INT64"
+       },
+    {
+        "name": "avg",
+        "type": "FLOAT64"
+       }
+    ]
+   }
